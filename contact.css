@@ -194,6 +194,12 @@ aside footer i{
     border: 1px solid #ccc;
     background-color: #ccc;
 }
+.form label{
+    color: #fff;
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+    display: block;
+}
 textarea{
     width: 30%;
     height: 10vh;
